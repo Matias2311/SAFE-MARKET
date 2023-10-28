@@ -13,13 +13,19 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
 section {
     margin: 20px;
     padding: 20px;
     border: 1px solid #ccc;
     background-color: #f9f9f9;
+}
+
+.titulos{
+    background-color: black;
+    color: #f9f9f9;
+    padding: 10px;
+}
+
+.src-btn:hover{
+    border-color: black;
 }
